@@ -7,6 +7,7 @@ public class ClassA {
 	public void tc()
 	{
 		System.out.println("I am a Test Case");
+		System.out.println("I am a Test Case1");
 	}
 
 }
