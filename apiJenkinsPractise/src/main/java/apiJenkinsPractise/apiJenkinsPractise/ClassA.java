@@ -8,6 +8,7 @@ public class ClassA {
 	{
 		System.out.println("I am a Test Case");
 		System.out.println("I am a Test Case1");
+		System.out.println("I am a Test Case2");
 	}
 
 }
